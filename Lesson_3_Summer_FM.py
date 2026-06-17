@@ -42,3 +42,4 @@ for temp in temperatures:
 
 print(f"Всего обнаружено перегревов {over_heat_count}")
 
+
