@@ -45,4 +45,4 @@ response = requests.get("https://gitflic.ru/")
 print(response.status_code)
 print(response.text)
 
-#pip install -i https://mirrors.aliyun.com/pypi/simple/ (Название библиотеки )
+#pip install -i https://mirrors.aliyun.com/pypi/simple/ customtkinter (Название библиотеки )
