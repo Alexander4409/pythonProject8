@@ -6,7 +6,7 @@ _task_entry = None
 _scroll_frame = None
 
 
-def handle_add_task():  # Проверьте, чтобы здесь было написано handle, а не handel
+def handle_add_task():
     """Логика добавления задачи."""
     text = _task_entry.get().strip()
     if text:
